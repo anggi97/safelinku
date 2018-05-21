@@ -2,7 +2,7 @@
 // Pengaturan
 var seconds = 12; // Countdown Timer
 var blog_url="http://listrianasafelink.blogspot.co.id"; // Homepage Blog Safelink
-var article1="http://listrianasafelink.blogspot.co.id/2018/05/cara-membuat-akun-payoneer.html"; // Article 1
+var article1="/2018/05/cara-membuat-akun-payoneer.html"; // Article 1
 var article2=""; // Article 2
 var article3=""; // Article 3
 // Homepage Safelink
