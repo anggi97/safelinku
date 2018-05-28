@@ -1,5 +1,5 @@
 // AUTO SAFELINK FOR WWW.LISTRIANA.ME SAFELINK.LISTRIANA.ME
-var blog_url="https://listrianasafelink.blogspot.co.id/"; // Homepage Blog Safelink
+var blog_url="http://listrianasafelink.blogspot.co.id/"; // Homepage Blog Safelink
 var article1="2018/05/how-to-create-payoneer-account.html"; // Article 1
 var article2="2018/05/dropped-drastically-its-latest-price.html"; // Article 2
 var article3="2018/05/yamaha-niken-soon-marketed.html"; // Article 3
