@@ -1,7 +1,7 @@
 // AUTO SAFELINK FOR WWW.LISTRIANA.ME SAFELINK.LISTRIANA.ME
-var blog_url="http://listrianasafelink.blogspot.com/"; // Homepage Blog Safelink
+var blog_url="http://www.listriana.me/"; // Homepage Blog Safelink
 var article1="2018/05/how-to-create-payoneer-account.html"; // Article 1
-var article2="2018/05/dropped-drastically-its-latest-price.html"; // Article 2
+var article2="2018/05/Dropped-Drastically-Latest-Price-Xiaomi-Mi-5-2018.html"; // Article 2
 var article3="2018/05/yamaha-niken-soon-marketed.html"; // Article 3
 var protected_links = "2.bp.blogspot.com,3.bp.blogspot.com,4.bp.blogspot.com,5.bp.blogspot.com,6.bp.blogspot.com,7.bp.blogspot.com,8.bp.blogspot.com,9.bp.blogspot.com,10.bp.blogspot.com,11.bp.blogspot.com,12.bp.blogspot.com,1.bp.blogspot.com,mstoree.blogspot.co.id,paypal.me/LISTRIANA,bit.ly/2k5XlFk,bit.ly/2wOsKFA,blogger.com,ploynarinn.blogspot.com,listriana.me,listrianaa.blogspot.com,listrianasafelink.blogspot.com,facebook.com,twitter.com,instagram.com"; // Protected Links
 function auto_safeconvert(){var a=window.location.hostname,c=0;""==protected_links||protected_links.match(a)?""==protected_links&&(protected_links=a):protected_links+=", "+a;var b;a=document.getElementsByTagName("a");a_to_va=a.length;var d=(b=a_to_fa()).length;for(var e,f,h="",g=0;g<a_to_va;g++){e=!1;for(f=0;0==e&&f<d;)!(h=a[g].href).match(b[f])&&h&&h.match("http")||(e=!0),f++;if(0==e){e=Base64.encode(h+",");f=Math.floor(3*Math.random()+1);var k=null;"1"==f&&(k=""+article1);"2"==f&&
